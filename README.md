@@ -1,8 +1,35 @@
-# React + Vite
+Este projeto final, é um sistema completo de CRUD para cadastro de médicos. Ele conta com um back-end em Java (Spring Boot) conectado a um banco de dados relacional MySQL e um front-end feito com React.js com um pouco de SCSS, permitindo a interação do usuário de forma prática.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Tecnologias:
 
-Currently, two official plugins are available:
+Frontend: React, JavaScript, SCSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend: Java, Spring Boot
+
+API Integration: Axios
+
+
+COMO RODAR:
+
+BAIXE O PROJETO:
+No terminal digite git clone https://github.com/ElevirJJ/FullStak.git
+
+INSTALE AS DEPENDECIAS:
+
+npm install
+
+RODE O PROJETO:
+
+npm run dev
+
+BACK-END
+
+BAIXE O PROJETO:
+
+git clone https://github.com/ElevirJJ/Cadastro_Medicos.git
+
+CONFIG DO BANCO:
+
+Mude as configuraçãoes do banco ( usuario e senha ) em aplication prorpeties
+
+
